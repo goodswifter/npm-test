@@ -1,7 +1,7 @@
 {
   "name": "@goodswifter/npm-test",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "packageManager": "pnpm@10.12.3",
   "description": "Opinionated collection of common JavaScript / TypeScript utils by @antfu",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
